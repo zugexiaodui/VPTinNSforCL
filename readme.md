@@ -71,7 +71,7 @@ Please change the `root_dir` in each script to the path of the uncompressed data
 
 10-split CIFAR-100: `train_cifar100_s10_clip.sh`
 
-20-split CIFAR-100: `train_cifar100_s10_clip.sh`
+20-split CIFAR-100: `train_cifar100_s20_clip.sh`
 
 10-split ImageNet-R: `train_imagenet_r_clip.sh`
 
