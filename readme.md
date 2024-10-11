@@ -79,3 +79,13 @@ Please change the `root_dir` in each script to the path of the uncompressed data
 
 Please specify the `--data_root` argument in the above bash scripts to the locations of the datasets.
 Change the `--seed` argument to use different seeds (e.g., 2025, 2026).
+
+## Citation
+```
+@article{lu2024visual,
+  title={Visual Prompt Tuning in Null Space for Continual Learning},
+  author={Lu, Yue and Zhang, Shizhou and Cheng, De and Xing, Yinghui and Wang, Nannan and Wang, Peng and Zhang, Yanning},
+  booktitle={NeurIPS},
+  year={2024}
+}
+```
