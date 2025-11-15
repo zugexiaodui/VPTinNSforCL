@@ -84,10 +84,10 @@ Change the `--seed` argument to use different seeds (e.g., 2025, 2026).
 
 ## Citation
 ```
-@article{lu2024visual,
-  title={Visual Prompt Tuning in Null Space for Continual Learning},
-  author={Lu, Yue and Zhang, Shizhou and Cheng, De and Xing, Yinghui and Wang, Nannan and Wang, Peng and Zhang, Yanning},
-  booktitle={Conference on Neural Information Processing Systems},
-  year={2024}
+@inproceedings{VisualPrompt2024Lu,
+  title = {Visual {{Prompt Tuning}} in {{Null Space}} for {{Continual Learning}}},
+  booktitle = {Conference on {{Neural Information Processing Systems}}},
+  author = {Lu, Yue and Zhang, Shizhou and Cheng, De and Xing, Yinghui and Wang, Nannan and Wang, Peng and Zhang, Yanning},
+  year = 2024
 }
 ```
