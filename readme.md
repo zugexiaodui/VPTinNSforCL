@@ -1,5 +1,7 @@
 # Visual Prompt Tuning in Null Space for Continual Learning
 
+[Paper & Appendix link](https://drive.google.com/file/d/16NXVCcisetmolfvmxFjsLnw_tm_faMVC/view?usp=drive_link)
+
 ## Environment
 
 - GPU: NVIDIA GeForce RTX 4090
